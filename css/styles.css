@@ -11411,7 +11411,7 @@ hr.divider-light {
 }
 
 .customers_bg{
-  background: linear-gradient(to top,  rgba(22, 11, 74, 0.1) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/customers_bg.jpg") ; 
+  background: linear-gradient(to top,  rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/customers_bg.jpg") ; 
   background-position: center; 
   background-repeat: no-repeat;
    background-attachment: scroll; 

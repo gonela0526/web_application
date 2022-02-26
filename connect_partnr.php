@@ -23,7 +23,7 @@
                     exit;
 
                 }else{
-                    echo "failed";
+                   
                     echo $res;
                 }
                 

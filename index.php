@@ -47,7 +47,7 @@
                             people invest in safe and prosperous future
                             centric places which add value to their lives as
                             <strong class="text-primary">“Greatest Assets”</strong>for generations to come.</p>
-                        <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
+                        <!-- <a class="btn btn-primary btn-xl" href="#about">Find Out More</a> -->
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
                             open plot facilitator in India and are
                             known really awesome ventures for
                             investments.</p>
-                        <a class="btn btn-light btn-xl" href="#services">Get Started!</a>
+                        <!-- <a class="btn btn-light btn-xl" href="#services">Get Started!</a> -->
                     </div>
                 </div>
             </div>
@@ -81,7 +81,7 @@
                         <p class="text-black-75 mb-4">We as specialists in real estate not just offer you the best place for investment but also a chance to have a career like any other profession in real estate.</p><br>
                         <p class="text-black-75 mb-4"> <strong class="text-primary">But Wait,</strong> you might wonder what if u don’t have any experience in real estate?? </p><br>
                         <p class="text-black-75 mb-4"> <strong class="text-primary">Well,</strong> we undergo mentor-ship under the head of team who goes by designation Senior Core Leader.</p>
-                        <a class="btn btn-primary btn-xl" href="#partners">Know more</a>
+                        <!-- <a class="btn btn-primary btn-xl" href="#partners">Know more</a> -->
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@
                         <hr class="divider divider-light" />
                         <p class="text-white-75 mb-4">We have two ways for the people who are ready to get acquainted.</p>
                         <a class="btn btn-light btn-xl" style="margin: 35px;" href="partners.php">Be an Independent Business Associate(IBA)</a>
-                        <a class="btn btn-light btn-xl" href="investor.php">Be an investor or a customer</a>
+                        <a class="btn btn-light btn-xl" href="investor.php">Be an Aspiring investor</a>
                     </div>
                 </div>
             </div>

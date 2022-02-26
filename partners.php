@@ -60,7 +60,7 @@
                         <p class="text-black-75 mb-4"><strong class="text-primary">if</strong>  you are from the category of people who thinks how can I make a good fortune in real estate without any prior experience then Don’t worry!!! We got you covered in that aspect.</p><br>
                         <p class="text-black-75 mb-4"> <strong class="text-primary">if</strong>  you are wondering how many hours you are supposed to work?? It’s completely flexible based on your goals. Can be Part-time or Full-time Business Associate.</p><br>
                         <p class="text-black-75 mb-4"> <strong class="text-primary">And,</strong> Only thing that matters is whether you wish to have anything or everything from the list </p>
-                        <a class="btn btn-primary btn-xl" data-bs-toggle="modal" data-bs-target="#exampleModal" >See our Features</a>
+                        <a class="btn btn-primary btn-xl" data-bs-toggle="modal" data-bs-target="#exampleModal" >List</a>
                     </div>
                 </div>
             </div>

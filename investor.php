@@ -42,7 +42,7 @@
                     <div class="col-lg-8 text-center">
                         <h2 class="text-white mt-0">What it takes to be An Investor?</h2>
                         <hr class="divider divider-light" />
-                        <p class="text-white-75 mb-4">Just to make it clear another time, we are open plot facilitators who can guarantee you on showing a safe place for your investment only if you are a person who expects Return on Investment(5 years) at the least.</p>
+                        <p class="text-white-75 mb-4"><strong> Just to make it clear another time, we are open plot facilitators who can guarantee you on showing a safe place for your investment only if you are a person who expects Return on Investment(5 years) at the least.</strong></p>
                         <p class="text-white-75 mb-4 ">Kindly Visit <a href="www.bbgindia.com">www.bbgindia.com</a>  for ventures and features</p>
                         <a class="btn btn-primary btn-xl" data-bs-toggle="modal" data-bs-target="#exampleModal" >Ventures & Features</a>
                         <!-- <a class="btn btn-light btn-xl" href="#services">Connect wiht us</a> -->
